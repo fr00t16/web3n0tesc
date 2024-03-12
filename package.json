@@ -1,7 +1,7 @@
 {
   "name": "@fr00t16/web3n0tesc",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "this create for edu",
   "main": "index.js",
   "scripts": {
     "start-prod": "NODE_ENV=production node ./src/server.js",
