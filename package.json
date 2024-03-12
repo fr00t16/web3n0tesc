@@ -1,5 +1,5 @@
 {
-  "name": "web3n0tesc",
+  "name": "@fr00t16/web3n0tesc",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "lint": "eslint ./src"
   },
   "keywords": [],
-  "author": "",
+  "author": "fr00t16",
   "license": "ISC",
   "dependencies": {
     "@hapi/hapi": "^20.2.1",
